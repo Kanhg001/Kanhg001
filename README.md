@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Kanhg001
+- 👀 I’m interested in Aosp testing for Mi 11t pro Vili.
